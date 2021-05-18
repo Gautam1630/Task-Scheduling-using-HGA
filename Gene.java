@@ -6,7 +6,7 @@ package org.cloudbus.cloudsim;
 import org.cloudbus.cloudsim.core.SimEntity;
 
 /**
- * @author deeksha
+ * @author shubham
  *
  */
 public class Gene{
