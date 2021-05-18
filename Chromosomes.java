@@ -7,7 +7,7 @@ import org.apache.commons.math3.genetics.AbstractListChromosome;
 import org.apache.commons.math3.genetics.InvalidRepresentationException;
 
 /**
- * @author deeksha
+ * @author shubham
  *
  */
 public class Chromosomes{
